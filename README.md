@@ -1,5 +1,5 @@
 # Template:
-[![CircleCI](https://circleci.com/github/jdmac16/microupdate.svg?style=svg)](https://app.circleci.com/pipelines/github/jdmac16/microupdate/7/workflows/c98ee7e0-cf66-43ae-a9ba-01dfba8b410f/jobs/9)
+[![CircleCI](https://circleci.com/gh/jdmac16/microupdate.svg?style=svg)](https://app.circleci.com/pipelines/github/jdmac16/microupdate/7/workflows/c98ee7e0-cf66-43ae-a9ba-01dfba8b410f/jobs/9)
 
 ## Project Overview
 
