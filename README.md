@@ -1,4 +1,3 @@
-# Template:
 [![CircleCI](https://circleci.com/gh/jdmac16/microupdate.svg?style=svg)](https://app.circleci.com/pipelines/github/jdmac16/microupdate)
 
 ## Project Overview
